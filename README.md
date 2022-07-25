@@ -6,6 +6,7 @@ Because of this project, people can use data and the code, or  they can benefit 
 # Dataset and Details
 
 The dataset including data from 2017 to 2022 was taken in Kaggle.
+
 The link : https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022
 
 This project is just entry-level work for my career.
