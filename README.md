@@ -8,7 +8,7 @@ The link : https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-2
 
 This project is just entry-level work for my career.
 
-Data is analsyed by Python and JupyterLab that is an open-source IDE and it is certainly useful for daa analysis.
+Data is analsyed by Python and JupyterLab that is an open-source IDE and it is certainly useful for data analysis.
 
 you can find all the files in repository.
 
