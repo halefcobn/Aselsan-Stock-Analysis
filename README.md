@@ -2,7 +2,7 @@
 
 The purpose of this project is to figure out the detailed of stock priceses of Aselsan.
 By this project, people can take he useful results for thir works.
-# Dataset
+# Dataset and Details
 The dataset including data from 2017 to 2022 was taken in Kaggle.
 The link : https://www.kaggle.com/datasets/zlemglsmklkaya/aselsan-stock-prices-20172022
 
